@@ -19,11 +19,9 @@ jobs:
           virtualenvs-path: .venv
 
       - name: Install dependencies
-        run: |
-          cd $GITHUB_WORKSPACE 
-          poetry install --no-interaction --no-root
+        working-directory: ${{ github.workspace }}
+        run: poetry install --no-interaction --no-root
 
       - name: Run Ruff linter
-        run: |
-          cd $GITHUB_WORKSPACE
-          poetry run ruff check .
+        working-directory: ${{ github.workspace }}
+        run: poetry run ruff check .
