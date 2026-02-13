@@ -19,9 +19,8 @@ jobs:
           virtualenvs-path: .venv
 
       - name: Install dependencies
-#        working-directory: ./fastapi-backend-course
         run: poetry install --no-interaction --no-root
 
       - name: Run Ruff linter
-#        working-directory: ./fastapi-backend-course
-        run: poetry run ruff check .
+        run: poetry run ruff check . --ignore-unsafe-fixes
+
