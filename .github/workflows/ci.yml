@@ -22,5 +22,5 @@ jobs:
         run: poetry install --no-interaction --no-root
 
       - name: Run Ruff linter
-        run: poetry run ruff check . --ignore-unsafe-fixes
+        run: poetry run ruff check .
 
