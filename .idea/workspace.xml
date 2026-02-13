@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baf616be-25c1-480d-bb9a-b3c250bd6369" name="Changes" comment="fix whitespace" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FleurBelaya&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FleurBelaya/fastapi-backend-course.git&quot;,
+    &quot;accountId&quot;: &quot;d703acac-e4de-49b5-aab9-3af4e145dfa2&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/git/src/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="39WqPm0vf6ImT7INDk7WUu7nTio" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "fix-conflict-task",
+    "last_opened_file_path": "C:/Users/polina/PycharmProjects/fastapi-backend-course",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baf616be-25c1-480d-bb9a-b3c250bd6369" name="Changes" comment="" />
+      <created>1770822155328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770822155328</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add poetry, ruff and fix git/src">
+      <option name="closed" value="true" />
+      <created>1770826825623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770826825623</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add poetry, ruff and fix git/src">
+      <option name="closed" value="true" />
+      <created>1770827335540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770827335540</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add ci.yml">
+      <option name="closed" value="true" />
+      <created>1770889496830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770889496830</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add ci.yml">
+      <option name="closed" value="true" />
+      <created>1770892599563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770892599563</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add ci.yml">
+      <option name="closed" value="true" />
+      <created>1770893657643</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770893657643</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add ci.yml">
+      <option name="closed" value="true" />
+      <created>1770893982283</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770893982283</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add ci.yml">
+      <option name="closed" value="true" />
+      <created>1770970634401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770970634401</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add ci.yml">
+      <option name="closed" value="true" />
+      <created>1770971037396</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770971037399</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add poetry">
+      <option name="closed" value="true" />
+      <created>1770971275891</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770971275891</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix errors with ruff">
+      <option name="closed" value="true" />
+      <created>1770971638959</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770971638959</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix ci.yml">
+      <option name="closed" value="true" />
+      <created>1770971838876</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1770971838876</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix ci.yml">
+      <option name="closed" value="true" />
+      <created>1770972134133</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1770972134133</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix whitespace">
+      <option name="closed" value="true" />
+      <created>1770972325298</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1770972325298</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add poetry, ruff and fix git/src" />
+    <MESSAGE value="add ci.yml" />
+    <MESSAGE value="add poetry" />
+    <MESSAGE value="fix errors with ruff" />
+    <MESSAGE value="fix ci.yml" />
+    <MESSAGE value="fix whitespace" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix whitespace" />
+  </component>
+</project>
