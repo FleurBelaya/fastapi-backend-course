@@ -1,0 +1,43 @@
+[project]
+name = "fastapi-backend-course"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Polina Belaya",email = "polinabeline@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "ruff (>=0.15.0,<0.16.0)"
+]
+
+[tool.ruff]
+unsafe-fixes = false
+line-length = 100
+target-version = "py311"
+src = ["src", "app"]
+extend-exclude = [".venv", "venv", "build", "dist", "__pycache__", "migrations"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "W", "I", "UP", "B", "SIM"]
+ignore = []
+
+[tool.ruff.lint.isort]
+known-first-party = ["app", "src"]
+combine-as-imports = true
+force-sort-within-sections = true
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "lf"
+docstring-code-format = true
