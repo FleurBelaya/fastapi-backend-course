@@ -22,7 +22,7 @@ jobs:
         run: poetry install --no-interaction --no-root
 
       - name: Format code with Ruff
-        run: poetry run ruff . --fix
+        run: poetry run ruff check . --fix
 
       - name: Run Ruff linter
         run: poetry run ruff check .
